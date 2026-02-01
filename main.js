@@ -7,6 +7,7 @@
 
 // See how i did (shaders, shadows, etc for detail dont render properly in gamelab, so i decided not to include them)
 // Model game: https://cubefield.stackblitz.io 
+//code.org fork of p5.js: https://github.com/code-dot-org/p5.play
 
 
 // sprites = boxes, sprite interactins: char -- block --> die, char -- moving block --> die, block -- moving block --> die.
